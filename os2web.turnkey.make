@@ -4,6 +4,13 @@ core = 7.x
 ;; Base of the main make file
 includes[base] = "os2web.core.make"
 
+; Hack to manually add drupal translations to profile as this is not supported by drush_make
+projects[da][type] = "translation"
+projects[da][download][type] = "get"
+projects[da][download][url] = "http://ftp.drupal.org/files/translations/7.x/drupal/drupal-7.22.da.po"
+projects[da][download][filename] = "da.po"
+projects[da][directory_name] = "translations"
+
 ;; OS2Web projects:
 
 ; OS2Web base panels
@@ -165,3 +172,7 @@ projects[os2web_core_theme][download][url] = "https://github.com/OS2web/os2web_c
 # Used by os2web_cp_service. Has to be here for now.
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.1"
+
+; Bedst paa nettet
+projects[bedstpaanettet][subdir] = "contrib"
+projects[bedstpaanettet][version] = "1.0"

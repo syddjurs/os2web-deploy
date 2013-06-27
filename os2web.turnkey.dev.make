@@ -115,3 +115,9 @@ projects[os2web_hearings][download][url] = "git@github.com:OS2web/os2web_hearing
 ; OS2Web Themes
 projects[os2web_core_theme][download][branch] = "develop"
 projects[os2web_core_theme][download][url] = "git@github.com:OS2web/os2web_core_theme.git"
+
+; OS2Web migrate
+projects[os2web_migrate][type] = "module"
+projects[os2web_migrate][download][type] = "git"
+projects[os2web_migrate][download][branch] = "master"
+projects[os2web_migrate][download][url] = "https://github.com/OS2web/os2web_migrate.git"
