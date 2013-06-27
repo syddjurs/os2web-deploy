@@ -85,3 +85,6 @@ projects[os2web_breaking_news][download][url] = "git@github.com:OS2web/os2web_br
 ; projects[os2web_help][download][tag] = "1.0"
 projects[os2web_help][download][branch] = "develop"
 projects[os2web_help][download][url] = "git@github.com:OS2web/os2web_help.git"
+
+projects[stage_file_proxy][type] = "module"
+projects[stage_file_proxy][version] = "1.3"
