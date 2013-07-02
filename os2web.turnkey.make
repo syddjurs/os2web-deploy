@@ -11,6 +11,8 @@ projects[da][download][url] = "http://ftp.drupal.org/files/translations/7.x/drup
 projects[da][download][filename] = "da.po"
 projects[da][directory_name] = "translations"
 
+translations[] = "da"
+
 ;; OS2Web projects:
 
 ; OS2Web base panels
@@ -164,7 +166,7 @@ projects[os2web_hearings][download][url] = "https://github.com/OS2web/os2web_hea
 projects[os2web_core_theme][type] = "theme"
 projects[os2web_core_theme][download][type] = "git"
 projects[os2web_core_theme][download][branch] = "master"
-projects[os2web_core_theme][download][url] = "https://github.com/OS2web/os2web_core_theme.git"
+projects[os2web_core_theme][download][url] = "https://github.com/syddjurs/os2web_core_theme.git"
 
 
 ;; Contrib Modules
