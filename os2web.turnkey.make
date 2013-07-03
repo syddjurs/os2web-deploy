@@ -181,3 +181,27 @@ projects[bedstpaanettet][version] = "1.0"
 
 projects[htmlpurifier][subdir] = "contrib"
 projects[htmlpurifier][version] = "1.0"
+
+projects[linkit][subdir] = "contrib"
+projects[linkit][version] = "2.6"
+
+projects[plupload][subdir] = "contrib"
+projects[plupload][version] = "1.2"
+
+projects[search_log][subdir] = "contrib"
+projects[search_log][version] = "1.0"
+
+projects[globalredirect][subdir] = "contrib"
+projects[globalredirect][version] = "1.5"
+
+projects[special_menu_items][subdir] = "contrib"
+projects[special_menu_items][version] = "2.0
+
+projects[fontyourface][subdir] = "contrib"
+projects[fontyourface][version] = "2.6""
+
+projects[bigmenu][subdir] = "contrib"
+projects[bigmenu][version] = "1.0"
+
+projects[varnish][subdir] = "contrib"
+projects[varnish][version] = "1.0-beta2"
