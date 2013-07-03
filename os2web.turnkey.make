@@ -195,10 +195,10 @@ projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
 
 projects[special_menu_items][subdir] = "contrib"
-projects[special_menu_items][version] = "2.0
+projects[special_menu_items][version] = "2.0"
 
 projects[fontyourface][subdir] = "contrib"
-projects[fontyourface][version] = "2.6""
+projects[fontyourface][version] = "2.6"
 
 projects[bigmenu][subdir] = "contrib"
 projects[bigmenu][version] = "1.0"
