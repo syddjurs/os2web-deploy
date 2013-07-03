@@ -55,6 +55,13 @@ if [ -d "build/$BUILD_DIR/modules" ]; then
 	# Make new build the latest
 	ln -sf $BUILD_DIR build/$BUILD_DIR_LATEST
 
+	# Take a copy of the current database,
+	# and put it in the previous build. Code and database keeps together.
+	echo "Backing up the database..."
+		# TODO: skip basic tables like cache --structure-tables-key=#{tables}
+		# Will make the dump smaller.
+	drush sql-dump --root=$DRUPAL_ROOT --uri=$URI --gzip > build/$BUILD_DIR_PREV/sql-dump.$DATE.sql.gz
+
 	echo "Updating database... Site will go in maintenance mode!"
 	drush --root=$DRUPAL_ROOT --uri=$URI vset maintenance_mode 1
 	drush --root=$DRUPAL_ROOT --uri=$URI updb
