@@ -178,3 +178,6 @@ projects[pathauto][version] = "1.1"
 ; Bedst paa nettet
 projects[bedstpaanettet][subdir] = "contrib"
 projects[bedstpaanettet][version] = "1.0"
+
+projects[htmlpurifier][subdir] = "contrib"
+projects[htmlpurifier][version] = "1.0"
