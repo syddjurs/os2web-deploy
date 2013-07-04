@@ -15,13 +15,6 @@ translations[] = "da"
 
 ;; OS2Web projects:
 
-; OS2Web base panels
-projects[os2web_base_panels][type] = "module"
-projects[os2web_base_panels][download][type] = "git"
-; projects[os2web_base_panels][download][tag] = "1.0"
-projects[os2web_base_panels][download][branch] = "master"
-projects[os2web_base_panels][download][url] = "https://github.com/OS2web/os2web_base_panels.git"
-
 ; OS2Web Iframe Field Display
 projects[os2web_iframe_field][type] = "module"
 projects[os2web_iframe_field][download][type] = "git"
@@ -125,7 +118,7 @@ projects[os2web_spotbox][type] = "module"
 projects[os2web_spotbox][download][type] = "git"
 ; projects[os2web_spotbox][download][tag] = "1.10"
 projects[os2web_spotbox][download][branch] = "master"
-projects[os2web_spotbox][download][url] = "https://github.com/OS2web/os2web_spotbox.git"
+projects[os2web_spotbox][download][url] = "https://github.com/syddjurs/os2web_spotbox.git"
 
 ; OS2Web Search
 projects[os2web_search][type] = "module"
@@ -204,4 +197,4 @@ projects[bigmenu][subdir] = "contrib"
 projects[bigmenu][version] = "1.0"
 
 projects[varnish][subdir] = "contrib"
-projects[varnish][version] = "1.0-beta2"
+projects[varnish][version] = "1.0"

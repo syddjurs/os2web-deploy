@@ -8,9 +8,6 @@ includes[dev] = "os2web.core.dev.make"
 ;; OS2Web projects:
 
 ; OS2Web base panels
-; projects[os2web_base_panels][download][tag] = "1.0"
-projects[os2web_base_panels][download][branch] = "develop"
-projects[os2web_base_panels][download][url] = "git@github.com:OS2web/os2web_base_panels.git"
 
 ; OS2Web Iframe Field Display
 ; projects[os2web_iframe_field][download][tag] = "1.0"
@@ -85,7 +82,7 @@ projects[os2web_contact][download][url] = "git@github.com:OS2web/os2web_contact.
 ; OS2Web Spotbox
 ; projects[os2web_spotbox][download][tag] = "1.10"
 projects[os2web_spotbox][download][branch] = "develop"
-projects[os2web_spotbox][download][url] = "git@github.com:OS2web/os2web_spotbox.git"
+projects[os2web_spotbox][download][url] = "git@github.com:syddjurs/os2web_spotbox.git"
 
 ; OS2Web Search
 ; projects[os2web_search][download][tag] = "1.10"
