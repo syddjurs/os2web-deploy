@@ -197,7 +197,7 @@ projects[bigmenu][subdir] = "contrib"
 projects[bigmenu][version] = "1.0"
 
 projects[varnish][subdir] = "contrib"
-projects[varnish][version] = "1.0"
+projects[varnish][version] = "1.0-beta2"
 
 projects[bg_image][subdir] = "contrib"
 projects[bg_image][version] = "1.0"
