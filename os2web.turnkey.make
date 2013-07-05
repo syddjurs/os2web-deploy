@@ -198,3 +198,6 @@ projects[bigmenu][version] = "1.0"
 
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0"
+
+projects[bg_image][subdir] = "contrib"
+projects[bg_image][version] = "1.0"
