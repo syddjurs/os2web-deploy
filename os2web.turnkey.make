@@ -201,3 +201,6 @@ projects[varnish][version] = "1.0-beta2"
 
 projects[bg_image][subdir] = "contrib"
 projects[bg_image][version] = "1.0"
+
+projects[calendar][subdir] = "contrib"
+projects[calendar][version] = "3.4"
