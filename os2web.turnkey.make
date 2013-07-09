@@ -1,6 +1,16 @@
 api = 2
 core = 7.x
 
+; Overwrites
+
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "1.0-beta10"
+
+libraries[ckeditor][download][type]= "get"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip"
+libraries[ckeditor][directory_name] = "ckeditor"
+libraries[ckeditor][destination] = "libraries"
+
 ;; Base of the main make file
 includes[base] = "os2web.core.make"
 
@@ -12,11 +22,6 @@ projects[da][download][filename] = "da.po"
 projects[da][directory_name] = "translations"
 
 translations[] = "da"
-
-; Overwrites
-
-projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "1.0-beta10"
 
 ;; OS2Web projects:
 
