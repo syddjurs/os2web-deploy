@@ -13,6 +13,11 @@ projects[da][directory_name] = "translations"
 
 translations[] = "da"
 
+; Overwrites
+
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "1.0-beta10"
+
 ;; OS2Web projects:
 
 ; OS2Web Iframe Field Display
@@ -207,6 +212,3 @@ projects[calendar][version] = "3.4"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
-
-projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "1.0-beta10"
