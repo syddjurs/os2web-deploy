@@ -204,3 +204,9 @@ projects[bg_image][version] = "1.0"
 
 projects[calendar][subdir] = "contrib"
 projects[calendar][version] = "3.4"
+
+projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg][version] = "2.2"
+
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "1.0-beta10"
