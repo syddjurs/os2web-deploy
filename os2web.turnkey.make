@@ -211,10 +211,6 @@ projects[os2web_mobile_theme][directory] = "os2web_mobile_theme"
 
 ;; Contrib Modules
 
-# Used by os2web_cp_service. Has to be here for now.
-projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.1"
-
 ; Bedst paa nettet
 projects[bedstpaanettet][subdir] = "contrib"
 projects[bedstpaanettet][version] = "1.0"
@@ -257,3 +253,6 @@ projects[wysiwyg][version] = "2.2"
 
 projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.12"
+
+projects[shurly][subdir] = "contrib"
+projects[shurly][version] = "1.1"
