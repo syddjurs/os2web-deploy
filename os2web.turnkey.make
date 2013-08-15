@@ -11,6 +11,10 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
+libraries[bootstrap][download][type] = "get"
+libraries[bootstrap][download][url] = "http://twitter.github.io/bootstrap/assets/bootstrap.zip"
+libraries[bootstrap][destination] = "themes/bootstrap"
+
 ;; Base of the main make file
 includes[base] = "os2web.core.make"
 
@@ -179,12 +183,31 @@ projects[os2web_contact_form][download][type] = "git"
 projects[os2web_contact_form][download][branch] = "master"
 projects[os2web_contact_form][download][url] = "https://github.com/OS2web/os2web_contact_form.git"
 
+; OS2web Mobile module
+projects[os2web_mobile][type] = "module"
+projects[os2web_mobile][download][type] = "git"
+;projects[os2web_mobile][download][tag] = "1.0"
+projects[os2web_mobile][download][branch] = "master"
+projects[os2web_mobile][download][url] = "https://github.com/OS2web/os2web_mobile.git"
+
+; OS2web Syddjurs Mobile module
+projects[os2web_mobile_syddjurs][type] = "module"
+projects[os2web_mobile_syddjurs][download][type] = "git"
+;projects[os2web_mobile_syddjurs][download][tag] = "1.0"
+projects[os2web_mobile_syddjurs][download][branch] = "master"
+projects[os2web_mobile_syddjurs][download][url] = "https://github.com/bellcom/os2web_mobile_syddjurs.git"
+
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
 projects[os2web_core_theme][download][type] = "git"
 projects[os2web_core_theme][download][branch] = "master"
 projects[os2web_core_theme][download][url] = "https://github.com/syddjurs/os2web_core_theme.git"
 
+projects[os2web_mobile_theme][type] = "theme"
+projects[os2web_mobile_theme][download][type] = "git"
+projects[os2web_mobile_theme][download][url] = "https://github.com/OS2web/os2web_mobile_theme.git"
+projects[os2web_mobile_theme][download][branch] = "master"
+projects[os2web_mobile_theme][directory] = "os2web_mobile_theme"
 
 ;; Contrib Modules
 
