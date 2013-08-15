@@ -167,6 +167,7 @@ projects[imagecrop][version] = "1.0-rc3"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
+projects[pathauto][patch][] = "http://drupal.org/files/pathauto_admin.patch"
 
 projects[sharethis][subdir] = "contrib"
 projects[sharethis][version] = "2.5"
