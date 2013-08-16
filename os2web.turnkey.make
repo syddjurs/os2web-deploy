@@ -12,7 +12,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
 libraries[bootstrap][download][type] = "get"
-libraries[bootstrap][download][url] = "http://twitter.github.io/bootstrap/assets/bootstrap.zip"
+libraries[bootstrap][download][url] = "http://getbootstrap.com/2.3.2/assets/bootstrap.zip"
 libraries[bootstrap][destination] = "themes/bootstrap"
 
 ;; Base of the main make file
