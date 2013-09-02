@@ -87,7 +87,7 @@ projects[os2web_spotbox][download][url] = "git@github.com:syddjurs/os2web_spotbo
 ; OS2Web Search
 ; projects[os2web_search][download][tag] = "1.10"
 projects[os2web_search][download][branch] = "develop"
-projects[os2web_search][download][url] = "git@github.com:OS2web/os2web_search.git"
+projects[os2web_search][download][url] = "git@github.com:syddjurs/os2web_search.git"
 
 ; OS2Web Sections
 ; projects[os2web_sections][download][tag] = "1.10"

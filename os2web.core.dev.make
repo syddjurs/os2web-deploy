@@ -49,7 +49,7 @@ projects[os2web_taxon_api][download][url] = "git@github.com:OS2web/os2web_taxon_
 ; OS2Web Search
 ; projects[os2web_search][download][tag] = "1.0"
 projects[os2web_search][download][branch] = "develop"
-projects[os2web_search][download][url] = "git@github.com:OS2web/os2web_search.git"
+projects[os2web_search][download][url] = "git@github.com:syddjurs/os2web_search.git"
 
 ; OS2Web Selfservice links
 ; projects[os2web_selfservicelinks][download][tag] = "1.0"

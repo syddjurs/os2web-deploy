@@ -66,7 +66,7 @@ projects[os2web_search][type] = "module"
 projects[os2web_search][download][type] = "git"
 ; projects[os2web_search][download][tag] = "1.0"
 projects[os2web_search][download][branch] = "master"
-projects[os2web_search][download][url] = "https://github.com/OS2web/os2web_search.git"
+projects[os2web_search][download][url] = "https://github.com/syddjurs/os2web_search.git"
 
 ; OS2Web Selfservice links
 projects[os2web_selfservicelinks][type] = "module"
