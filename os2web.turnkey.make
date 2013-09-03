@@ -125,7 +125,7 @@ projects[os2web_contact][type] = "module"
 projects[os2web_contact][download][type] = "git"
 ; projects[os2web_contact][download][tag] = "1.0"
 projects[os2web_contact][download][branch] = "master"
-projects[os2web_contact][download][url] = "https://github.com/OS2web/os2web_contact.git"
+projects[os2web_contact][download][url] = "https://github.com/syddjurs/os2web_contact.git"
 
 ; OS2Web Spotbox
 projects[os2web_spotbox][type] = "module"

@@ -77,7 +77,7 @@ projects[os2web_meetings][download][url] = "git@github.com:OS2web/os2web_meeting
 ; OS2Web contact
 ; projects[os2web_contact][download][tag] = "1.0"
 projects[os2web_contact][download][branch] = "develop"
-projects[os2web_contact][download][url] = "git@github.com:OS2web/os2web_contact.git"
+projects[os2web_contact][download][url] = "git@github.com:syddjurs/os2web_contact.git"
 
 ; OS2Web Spotbox
 ; projects[os2web_spotbox][download][tag] = "1.10"
