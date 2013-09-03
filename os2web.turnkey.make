@@ -55,7 +55,7 @@ projects[os2web_cp_service][type] = "module"
 projects[os2web_cp_service][download][type] = "git"
 ; projects[os2web_cp_service][download][tag] = "0.1"
 projects[os2web_cp_service][download][branch] = "master"
-projects[os2web_cp_service][download][url] = "https://github.com/OS2web/os2web_cp_service.git"
+projects[os2web_cp_service][download][url] = "https://github.com/syddjurs/os2web_cp_service.git"
 
 ; OS2Web Node Feedback
 projects[os2web_node_feedback][type] = "module"

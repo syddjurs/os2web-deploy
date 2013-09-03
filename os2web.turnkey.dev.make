@@ -27,7 +27,7 @@ projects[os2web_acadre_esdh][download][url] = "git@github.com:OS2web/os2web_acad
 ; OS2Web CP service
 ; projects[os2web_cp_service][download][tag] = "0.1"
 projects[os2web_cp_service][download][branch] = "develop"
-projects[os2web_cp_service][download][url] = "git@github.com:OS2web/os2web_cp_service.git"
+projects[os2web_cp_service][download][url] = "git@github.com:syddjurs/os2web_cp_service.git"
 
 ; OS2Web Node Feedback
 ; projects[os2web_node_feedback][download][tag] = "1.10"
