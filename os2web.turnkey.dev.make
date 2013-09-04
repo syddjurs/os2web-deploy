@@ -17,7 +17,7 @@ projects[os2web_iframe_field][download][url] = "git@github.com:OS2web/os2web_ifr
 ; OS2Web ESDH Provider
 ; projects[os2web_esdh_provider][download][tag] = "1.10"
 projects[os2web_esdh_provider][download][branch] = "develop"
-projects[os2web_esdh_provider][download][url] = "git@github.com:OS2web/os2web_esdh_provider.git"
+projects[os2web_esdh_provider][download][url] = "git@github.com:syddjurs/os2web_esdh_provider.git"
 
 ; OS2Web acadre_esdh integration
 ; projects[os2web_acadre_esdh][download][tag] = "1.10"
