@@ -22,7 +22,7 @@ projects[os2web_esdh_provider][download][url] = "git@github.com:syddjurs/os2web_
 ; OS2Web acadre_esdh integration
 ; projects[os2web_acadre_esdh][download][tag] = "1.10"
 projects[os2web_acadre_esdh][download][branch] = "develop"
-projects[os2web_acadre_esdh][download][url] = "git@github.com:OS2web/os2web_acadre_esdh.git"
+projects[os2web_acadre_esdh][download][url] = "git@github.com:syddjurs/os2web_acadre_esdh.git"
 
 ; OS2Web CP service
 ; projects[os2web_cp_service][download][tag] = "0.1"
@@ -62,7 +62,7 @@ projects[os2web_ad_integration][download][url] = "git@github.com:OS2web/os2web_a
 ; OS2Web Adlip API
 ; projects[os2web_adlib_api][download][tag] = "1.0"
 projects[os2web_adlib_api][download][branch] = "develop"
-projects[os2web_adlib_api][download][url] = "git@github.com:OS2web/os2web_adlib_api.git"
+projects[os2web_adlib_api][download][url] = "git@github.com:syddjurs/os2web_adlib_api.git"
 
 ; OS2Web Taxon API
 ; projects[os2web_taxon_api][download][tag] = "1.0"

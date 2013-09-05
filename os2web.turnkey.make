@@ -48,7 +48,7 @@ projects[os2web_acadre_esdh][type] = "module"
 projects[os2web_acadre_esdh][download][type] = "git"
 ; projects[os2web_acadre_esdh][download][tag] = "1.10"
 projects[os2web_acadre_esdh][download][branch] = "master"
-projects[os2web_acadre_esdh][download][url] = "https://github.com/OS2web/os2web_acadre_esdh.git"
+projects[os2web_acadre_esdh][download][url] = "https://github.com/syddjurs/os2web_acadre_esdh.git"
 
 ; OS2Web CP service
 projects[os2web_cp_service][type] = "module"
@@ -104,7 +104,7 @@ projects[os2web_adlib_api][type] = "module"
 projects[os2web_adlib_api][download][type] = "git"
 ; projects[os2web_adlib_api][download][tag] = "1.0"
 projects[os2web_adlib_api][download][branch] = "master"
-projects[os2web_adlib_api][download][url] = "https://github.com/OS2web/os2web_adlib_api.git"
+projects[os2web_adlib_api][download][url] = "https://github.com/syddjurs/os2web_adlib_api.git"
 
 ; OS2Web Taxon API
 projects[os2web_taxon_api][type] = "module"
