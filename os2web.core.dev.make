@@ -24,7 +24,7 @@ projects[os2web_settings][download][url] = "git@github.com:OS2web/os2web_setting
 ; OS2Web frontend
 ; projects[os2web_frontend][download][tag] = "1.0"
 projects[os2web_frontend][download][branch] = "develop"
-projects[os2web_frontend][download][url] = "git@github.com:OS2web/os2web_frontend.git"
+projects[os2web_frontend][download][url] = "git@github.com:syddjurs/os2web_frontend.git"
 
 ; OS2Web meetings
 ; projects[os2web_meetings][download][tag] = "1.0"

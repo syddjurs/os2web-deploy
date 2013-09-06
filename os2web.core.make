@@ -31,7 +31,7 @@ projects[os2web_frontend][type] = "module"
 projects[os2web_frontend][download][type] = "git"
 ; projects[os2web_frontend][download][tag] = "1.0"
 projects[os2web_frontend][download][branch] = "master"
-projects[os2web_frontend][download][url] = "https://github.com/OS2web/os2web_frontend.git"
+projects[os2web_frontend][download][url] = "https://github.com/syddjurs/os2web_frontend.git"
 
 ; OS2Web meetings
 projects[os2web_meetings][type] = "module"
