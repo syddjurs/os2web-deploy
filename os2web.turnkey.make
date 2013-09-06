@@ -50,6 +50,12 @@ projects[os2web_acadre_esdh][download][type] = "git"
 projects[os2web_acadre_esdh][download][branch] = "master"
 projects[os2web_acadre_esdh][download][url] = "https://github.com/syddjurs/os2web_acadre_esdh.git"
 
+; OS2web ESDH field
+projects[os2web_esdh_field][type] = "module"
+projects[os2web_esdh_field][download][type] = "git"
+projects[os2web_esdh_field][download][branch] = "master"
+projects[os2web_esdh_field][download][url] = "https://github.com/OS2web/os2web_esdh_field.git"
+
 ; OS2Web CP service
 projects[os2web_cp_service][type] = "module"
 projects[os2web_cp_service][download][type] = "git"

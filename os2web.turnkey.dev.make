@@ -24,6 +24,10 @@ projects[os2web_esdh_provider][download][url] = "git@github.com:syddjurs/os2web_
 projects[os2web_acadre_esdh][download][branch] = "develop"
 projects[os2web_acadre_esdh][download][url] = "git@github.com:syddjurs/os2web_acadre_esdh.git"
 
+; OS2Web ESDH Field
+projects[os2web_esdh_field][download][branch] = "master"
+projects[os2web_esdh_field][download][url] = "https://github.com/OS2web/os2web_esdh_field.git"
+
 ; OS2Web CP service
 ; projects[os2web_cp_service][download][tag] = "0.1"
 projects[os2web_cp_service][download][branch] = "develop"
