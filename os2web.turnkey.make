@@ -166,7 +166,7 @@ projects[os2web_webform][download][url] = "https://github.com/OS2web/os2web_webf
 projects[os2web_hearings][type] = "module"
 projects[os2web_hearings][download][type] = "git"
 ; projects[os2web_hearings][download][tag] = "1.10"
-projects[os2web_hearings][download][branch] = "master"
+projects[os2web_hearings][download][branch] = "hearings_case"
 projects[os2web_hearings][download][url] = "https://github.com/OS2web/os2web_hearings.git"
 
 ; OS2Web Portals
