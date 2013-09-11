@@ -41,7 +41,7 @@ projects[os2web_node_feedback][download][url] = "git@github.com:OS2web/os2web_no
 ; Borger.dk Integration
 ; projects[os2web_borger_dk][download][tag] = "1.0"
 projects[os2web_borger_dk][download][branch] = "feature/os2web-1.0-migration"
-projects[os2web_borger_dk][download][url] = "git@github.com:OS2web/os2web_borger_dk.git"
+projects[os2web_borger_dk][download][url] = "git@github.com:syddjurs/os2web_borger_dk.git"
 
 ; Kulturnaut Events
 ; projects[os2web_kulturnaut_events][download][tag] = "1.0"
