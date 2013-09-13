@@ -76,7 +76,7 @@ projects[os2web_taxon_api][download][url] = "git@github.com:OS2web/os2web_taxon_
 ; OS2Web Meetings
 ; projects[os2web_meetings][download][tag] = "1.10"
 projects[os2web_meetings][download][branch] = "develop"
-projects[os2web_meetings][download][url] = "git@github.com:OS2web/os2web_meetings.git"
+projects[os2web_meetings][download][url] = "git@github.com:syddjurs/os2web_meetings.git"
 
 ; OS2Web contact
 ; projects[os2web_contact][download][tag] = "1.0"

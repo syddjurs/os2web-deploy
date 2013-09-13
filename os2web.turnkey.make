@@ -124,7 +124,7 @@ projects[os2web_meetings][type] = "module"
 projects[os2web_meetings][download][type] = "git"
 ; projects[os2web_meetings][download][tag] = "1.10"
 projects[os2web_meetings][download][branch] = "master"
-projects[os2web_meetings][download][url] = "https://github.com/OS2web/os2web_meetings.git"
+projects[os2web_meetings][download][url] = "https://github.com/syddjurs/os2web_meetings.git"
 
 ; OS2Web contact
 projects[os2web_contact][type] = "module"
