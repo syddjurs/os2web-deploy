@@ -103,7 +103,7 @@ projects[os2web_ad_integration][type] = "module"
 projects[os2web_ad_integration][download][type] = "git"
 ; projects[os2web_ad_integration][download][tag] = "1.0"
 projects[os2web_ad_integration][download][branch] = "master"
-projects[os2web_ad_integration][download][url] = "https://github.com/OS2web/os2web_ad_integration.git"
+projects[os2web_ad_integration][download][url] = "https://github.com/syddjurs/os2web_ad_integration.git"
 
 ; OS2Web Adlip API
 projects[os2web_adlib_api][type] = "module"
@@ -172,8 +172,8 @@ projects[os2web_webform][download][url] = "https://github.com/OS2web/os2web_webf
 projects[os2web_hearings][type] = "module"
 projects[os2web_hearings][download][type] = "git"
 ; projects[os2web_hearings][download][tag] = "1.10"
-projects[os2web_hearings][download][branch] = "hearings_case"
-projects[os2web_hearings][download][url] = "https://github.com/OS2web/os2web_hearings.git"
+projects[os2web_hearings][download][branch] = "master"
+projects[os2web_hearings][download][url] = "https://github.com/syddjurs/os2web_hearings.git"
 
 ; OS2Web Portals
 projects[os2web_portals][type] = "module"

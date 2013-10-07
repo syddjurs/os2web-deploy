@@ -61,7 +61,7 @@ projects[os2web_citizenservices][download][url] = "git@github.com:OS2web/os2web_
 ; AD Integration
 ; projects[os2web_ad_integration][download][tag] = "1.0"
 projects[os2web_ad_integration][download][branch] = "develop"
-projects[os2web_ad_integration][download][url] = "git@github.com:OS2web/os2web_ad_integration.git"
+projects[os2web_ad_integration][download][url] = "git@github.com:syddjurs/os2web_ad_integration.git"
 
 ; OS2Web Adlip API
 ; projects[os2web_adlib_api][download][tag] = "1.0"
@@ -111,7 +111,7 @@ projects[os2web_webform][download][url] = "git@github.com:OS2web/os2web_webform.
 ; OS2Web Hearings
 ; projects[os2web_hearings][download][tag] = "1.10"
 projects[os2web_hearings][download][branch] = "develop"
-projects[os2web_hearings][download][url] = "git@github.com:OS2web/os2web_hearings.git"
+projects[os2web_hearings][download][url] = "git@github.com:syddjurs/os2web_hearings.git"
 
 ; OS2Web Portals
 # projects[os2web_portals][download][branch] = "develop"
