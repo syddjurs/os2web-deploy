@@ -15,6 +15,11 @@ libraries[bootstrap][download][type] = "get"
 libraries[bootstrap][download][url] = "http://getbootstrap.com/2.3.2/assets/bootstrap.zip"
 libraries[bootstrap][destination] = "themes/bootstrap"
 
+projects[os2web_print_send_to_friend][type] = "module"
+projects[os2web_print_send_to_friend][download][type] = "git"
+projects[os2web_print_send_to_friend][download][branch] = "master"
+projects[os2web_print_send_to_friend][download][url] = "https://github.com/syddjurs/os2web_print_send_to_friend.git"
+
 ;; Base of the main make file
 includes[base] = "os2web.core.make"
 

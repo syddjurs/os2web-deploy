@@ -1,6 +1,11 @@
 api = 2
 core = 7.x
 
+; Overwrites
+
+projects[os2web_print_send_to_friend][download][branch] = "develop"
+projects[os2web_print_send_to_friend][download][url] = "git@github.com:syddjurs/os2web_print_send_to_friend.git"
+
 ;; Base of the main make file
 includes[base] = "os2web.turnkey.make"
 includes[dev] = "os2web.core.dev.make"
