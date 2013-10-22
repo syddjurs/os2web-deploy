@@ -89,7 +89,7 @@ projects[os2web_ofir_job][type] = "module"
 projects[os2web_ofir_job][download][type] = "git"
 ; projects[os2web_ofir_job][download][tag] = "1.0"
 projects[os2web_ofir_job][download][branch] = "master"
-projects[os2web_ofir_job][download][url] = "https://github.com/OS2web/os2web_ofir_job.git"
+projects[os2web_ofir_job][download][url] = "https://github.com/syddjurs/os2web_ofir_job.git"
 
 ; Borgerservice
 projects[os2web_citizenservices][type] = "module"
