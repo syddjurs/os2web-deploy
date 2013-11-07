@@ -267,3 +267,6 @@ projects[extlink][version] = "1.12"
 
 projects[shurly][subdir] = "contrib"
 projects[shurly][version] = "1.1"
+
+projects[piwik][subdir] = "contrib"
+projects[piwik][version] = "2.4"
