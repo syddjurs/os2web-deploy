@@ -24,7 +24,7 @@ projects[os2web_settings][type] = "module"
 projects[os2web_settings][download][type] = "git"
 ; projects[os2web_settings][download][tag] = "1.0"
 projects[os2web_settings][download][branch] = "master"
-projects[os2web_settings][download][url] = "https://github.com/OS2web/os2web_settings.git"
+projects[os2web_settings][download][url] = "https://github.com/syddjurs/os2web_settings.git"
 
 ; OS2Web frontend
 projects[os2web_frontend][type] = "module"
@@ -46,6 +46,12 @@ projects[os2web_borger_dk][download][type] = "git"
 ; projects[os2web_borger_dk][download][tag] = "1.0"
 projects[os2web_borger_dk][download][branch] = "feature/os2web-1.0-migration"
 projects[os2web_borger_dk][download][url] = "https://github.com/OS2web/os2web_borger_dk.git"
+
+; Taxon Taxonomy
+projects[taxon_taxonomy][type] = "module"
+projects[taxon_taxonomy][download][type] = "git"
+projects[taxon_taxonomy][download][branch] = "master"
+projects[taxon_taxonomy][download][url] = "https://github.com/OS2web/taxon_taxonomy.git"
 
 ; OS2Web Taxonomies
 projects[os2web_taxonomies][type] = "module"

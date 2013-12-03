@@ -19,7 +19,7 @@ projects[os2web_base_panels][download][url] = "git@github.com:syddjurs/os2web_ba
 ; OS2Web settings
 ; projects[os2web_settings][download][tag] = "1.0"
 projects[os2web_settings][download][branch] = "develop"
-projects[os2web_settings][download][url] = "git@github.com:OS2web/os2web_settings.git"
+projects[os2web_settings][download][url] = "git@github.com:syddjurs/os2web_settings.git"
 
 ; OS2Web frontend
 ; projects[os2web_frontend][download][tag] = "1.0"

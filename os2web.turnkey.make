@@ -59,7 +59,7 @@ projects[os2web_acadre_esdh][download][url] = "https://github.com/syddjurs/os2we
 projects[os2web_esdh_field][type] = "module"
 projects[os2web_esdh_field][download][type] = "git"
 projects[os2web_esdh_field][download][branch] = "master"
-projects[os2web_esdh_field][download][url] = "https://github.com/OS2web/os2web_esdh_field.git"
+projects[os2web_esdh_field][download][url] = "https://github.com/syddjurs/os2web_esdh_field.git"
 
 ; OS2Web CP service
 projects[os2web_cp_service][type] = "module"
@@ -192,7 +192,7 @@ projects[os2web_contact_form][type] = "module"
 projects[os2web_contact_form][download][type] = "git"
 ; projects[os2web_contact_form][download][tag] = "1.10"
 projects[os2web_contact_form][download][branch] = "master"
-projects[os2web_contact_form][download][url] = "https://github.com/OS2web/os2web_contact_form.git"
+projects[os2web_contact_form][download][url] = "https://github.com/syddjurs/os2web_contact_form.git"
 
 ; OS2web Mobile module
 projects[os2web_mobile][type] = "module"
@@ -207,6 +207,13 @@ projects[os2web_mobile_syddjurs][download][type] = "git"
 ;projects[os2web_mobile_syddjurs][download][tag] = "1.0"
 projects[os2web_mobile_syddjurs][download][branch] = "master"
 projects[os2web_mobile_syddjurs][download][url] = "https://github.com/bellcom/os2web_mobile_syddjurs.git"
+
+; OS2web Service Popup module
+projects[os2web_service_popup][type] = "module"
+projects[os2web_service_popup][download][type] = "git"
+;projects[os2web_service_popup][download][tag] = "1.0"
+projects[os2web_service_popup][download][branch] = "master"
+projects[os2web_service_popup][download][url] = "https://github.com/andersbryrup/os2web_service_popup.git"
 
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
@@ -252,6 +259,7 @@ projects[bigmenu][version] = "1.0"
 
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
+projects[varnish][patch][1481136] = "http://drupal.org/files/varnish_purge_limit-1481136-10.patch"
 
 projects[bg_image][subdir] = "contrib"
 projects[bg_image][version] = "1.0"

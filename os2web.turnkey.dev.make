@@ -31,7 +31,7 @@ projects[os2web_acadre_esdh][download][url] = "git@github.com:syddjurs/os2web_ac
 
 ; OS2Web ESDH Field
 projects[os2web_esdh_field][download][branch] = "master"
-projects[os2web_esdh_field][download][url] = "https://github.com/OS2web/os2web_esdh_field.git"
+projects[os2web_esdh_field][download][url] = "https://github.com/syddjurs/os2web_esdh_field.git"
 
 ; OS2Web CP service
 ; projects[os2web_cp_service][download][tag] = "0.1"
@@ -88,6 +88,11 @@ projects[os2web_meetings][download][url] = "git@github.com:syddjurs/os2web_meeti
 projects[os2web_contact][download][branch] = "develop"
 projects[os2web_contact][download][url] = "git@github.com:syddjurs/os2web_contact.git"
 
+; OS2Web contact form
+; projects[os2web_contact_form][download][tag] = "1.0"
+projects[os2web_contact_form][download][branch] = "develop"
+projects[os2web_contact_form][download][url] = "git@github.com:syddjurs/os2web_contact_form.git"
+
 ; OS2Web Spotbox
 ; projects[os2web_spotbox][download][tag] = "1.10"
 projects[os2web_spotbox][download][branch] = "develop"
@@ -121,10 +126,6 @@ projects[os2web_hearings][download][url] = "git@github.com:syddjurs/os2web_heari
 ; OS2Web Portals
 # projects[os2web_portals][download][branch] = "develop"
 projects[os2web_portals][download][url] = "git@github.com:OS2web/os2web_portals.git"
-
-; OS2Web Contact Form
-# projects[os2web_portals][download][branch] = "develop"
-projects[os2web_contact_form][download][url] = "git@github.com:OS2web/os2web_contact_form.git"
 
 ; OS2Web Themes
 projects[os2web_core_theme][download][branch] = "develop"
