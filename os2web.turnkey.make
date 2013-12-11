@@ -227,6 +227,14 @@ projects[os2web_mobile_theme][download][url] = "https://github.com/OS2web/os2web
 projects[os2web_mobile_theme][download][branch] = "master"
 projects[os2web_mobile_theme][directory] = "os2web_mobile_theme"
 
+;; Sandbox Modules
+projects[webform_nosave][type] = "module"
+projects[webform_nosave][subdir] = "sandbox"
+projects[webform_nosave][download][type] = "git"
+projects[webform_nosave][download][branch] = "7.x-3.x"
+projects[webform_nosave][download][url] = "http://git.drupal.org/sandbox/sense/1895002.git"
+projects[webform_nosave][download][revision] = "9696074530aeda15f248ace663fd93404cbb6ed1"
+
 ;; Contrib Modules
 
 ; Bedst paa nettet
