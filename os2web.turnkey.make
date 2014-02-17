@@ -215,6 +215,12 @@ projects[os2web_service_popup][download][type] = "git"
 projects[os2web_service_popup][download][branch] = "master"
 projects[os2web_service_popup][download][url] = "https://github.com/andersbryrup/os2web_service_popup.git"
 
+; OS2web Subscription module
+projects[os2web_subscription][type] = "module"
+projects[os2web_subscription][download][type] = "git"
+projects[os2web_subscription][download][branch] = "master"
+projects[os2web_subscription][download][url] = "https://github.com/syddjurs/os2web_subscription.git"
+
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
 projects[os2web_core_theme][download][type] = "git"
