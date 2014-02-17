@@ -1,3 +1,30 @@
+================ Deploy 17 Dec 2013 =================================
+drush en extlink
+Opsæt External Link
+
+drush dis os2web_taxon_taxonomy
+drush en taxon_taxonomy
+Opsæt taxon_taxonomy
+
+--- Indstillinger fra gammel os2web_taxon_taxonomy:
+os2web_taxon_taxonomy_button_text: 'Klassificér med Taxon'
+os2web_taxon_taxonomy_button_text_wait: 'Klassificerer...'
+os2web_taxon_taxonomy_ckeditor_field: 'edit-body-und-0-value'
+os2web_taxon_taxonomy_field_name: '#edit-field-os2web-base-field-kle-ref-und'
+os2web_taxon_taxonomy_not_selected_image: '/profiles/os2web/modules/os2web_taxon_taxonomy/images/not_selected_png'
+os2web_taxon_taxonomy_number_results_returned: '5'
+os2web_taxon_taxonomy_selected_image: '/profiles/os2web/modules/os2web_taxon_taxonomy/images/selected_png'
+os2web_taxon_taxonomy_taxonomy_name: '../system/taxonomies/os2kle_lookup.json'
+os2web_taxon_taxonomy_taxon_url: 'http://10.1.1.182/Taxon2.2/taxon-ws.php'
+os2web_taxon_taxonomy_wait_image: '/profiles/os2web/modules/os2web_taxon_taxonomy/images/wait.gif'
+---
+
+drush en os2web_service_popup
+Opsæt Popup under os2web_settings.
+
+================ Deploy 28 okt 2013 =================================
+drush fr os2web_base_panels os2web_ofir_job
+
 ================ os2web_cp_service/hotfix-1.0.1-beta1  =================
 Updates to disallow certain filetypes for download.
 Edit settings var to show certain message if disallowed. admin/config/os2web/settings
