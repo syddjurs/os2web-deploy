@@ -243,6 +243,9 @@ projects[webform_nosave][download][revision] = "9696074530aeda15f248ace663fd9340
 
 ;; Contrib Modules
 
+projects[linkchecker][subdir] = "contrib"
+projects[linkchecker][version] = "1.1"
+
 ; Bedst paa nettet
 projects[bedstpaanettet][subdir] = "contrib"
 projects[bedstpaanettet][version] = "1.0"
