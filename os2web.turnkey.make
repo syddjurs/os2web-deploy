@@ -292,3 +292,11 @@ projects[shurly][version] = "1.1"
 
 projects[piwik][subdir] = "contrib"
 projects[piwik][version] = "2.4"
+
+projects[cache_actions][subdir] = "contrib"
+projects[cache_actions][version] = "2.0-alpha5"
+
+projects[syddjurs_clear_cache_rules][type] = "module"
+projects[syddjurs_clear_cache_rules][download][type] = "git"
+projects[syddjurs_clear_cache_rules][download][branch] = "master"
+projects[syddjurs_clear_cache_rules][download][url] = "https://github.com/syddjurs/syddjurs_clear_cache_rules.git"
