@@ -47,25 +47,12 @@ projects[os2web_borger_dk][download][type] = "git"
 projects[os2web_borger_dk][download][branch] = "feature/os2web-1.0-migration"
 projects[os2web_borger_dk][download][url] = "https://github.com/OS2web/os2web_borger_dk.git"
 
-; Taxon Taxonomy
-projects[taxon_taxonomy][type] = "module"
-projects[taxon_taxonomy][download][type] = "git"
-projects[taxon_taxonomy][download][branch] = "master"
-projects[taxon_taxonomy][download][url] = "https://github.com/OS2web/taxon_taxonomy.git"
-
 ; OS2Web Taxonomies
 projects[os2web_taxonomies][type] = "module"
 projects[os2web_taxonomies][download][type] = "git"
 ; projects[os2web_taxonomies][download][tag] = "1.0"
 projects[os2web_taxonomies][download][branch] = "master"
 projects[os2web_taxonomies][download][url] = "https://github.com/OS2web/os2web_taxonomies.git"
-
-; OS2Web Taxon Api
-projects[os2web_taxon_api][type] = "module"
-projects[os2web_taxon_api][download][type] = "git"
-; projects[os2web_taxon_api][download][tag] = "1.0"
-projects[os2web_taxon_api][download][branch] = "master"
-projects[os2web_taxon_api][download][url] = "https://github.com/OS2web/os2web_taxon_api.git"
 
 ; OS2Web Search
 projects[os2web_search][type] = "module"
