@@ -41,11 +41,6 @@ projects[os2web_borger_dk][download][url] = "git@github.com:OS2web/os2web_borger
 projects[os2web_taxonomies][download][branch] = "develop"
 projects[os2web_taxonomies][download][url] = "git@github.com:OS2web/os2web_taxonomies.git"
 
-; OS2Web Taxon Api
-; projects[os2web_taxon_api][download][tag] = "1.0"
-projects[os2web_taxon_api][download][branch] = "develop"
-projects[os2web_taxon_api][download][url] = "git@github.com:OS2web/os2web_taxon_api.git"
-
 ; OS2Web Search
 ; projects[os2web_search][download][tag] = "1.0"
 projects[os2web_search][download][branch] = "develop"

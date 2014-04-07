@@ -117,13 +117,6 @@ projects[os2web_adlib_api][download][type] = "git"
 projects[os2web_adlib_api][download][branch] = "master"
 projects[os2web_adlib_api][download][url] = "https://github.com/syddjurs/os2web_adlib_api.git"
 
-; OS2Web Taxon API
-projects[os2web_taxon_api][type] = "module"
-projects[os2web_taxon_api][download][type] = "git"
-; projects[os2web_taxon_api][download][tag] = "1.0"
-projects[os2web_taxon_api][download][branch] = "master"
-projects[os2web_taxon_api][download][url] = "https://github.com/OS2web/os2web_taxon_api.git"
-
 ; OS2Web Meetings
 projects[os2web_meetings][type] = "module"
 projects[os2web_meetings][download][type] = "git"
@@ -295,3 +288,14 @@ projects[shurly][version] = "1.1"
 
 projects[piwik][subdir] = "contrib"
 projects[piwik][version] = "2.4"
+
+projects[cache_actions][subdir] = "contrib"
+projects[cache_actions][version] = "2.0-alpha5"
+
+projects[syddjurs_clear_cache_rules][type] = "module"
+projects[syddjurs_clear_cache_rules][download][type] = "git"
+projects[syddjurs_clear_cache_rules][download][branch] = "master"
+projects[syddjurs_clear_cache_rules][download][url] = "https://github.com/syddjurs/syddjurs_clear_cache_rules.git"
+
+projects[taxon_taxonomy][subdir] = "contrib"
+projects[taxon_taxonomy][version] = "2.4"

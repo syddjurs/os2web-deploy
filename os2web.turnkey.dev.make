@@ -73,11 +73,6 @@ projects[os2web_ad_integration][download][url] = "git@github.com:syddjurs/os2web
 projects[os2web_adlib_api][download][branch] = "develop"
 projects[os2web_adlib_api][download][url] = "git@github.com:syddjurs/os2web_adlib_api.git"
 
-; OS2Web Taxon API
-; projects[os2web_taxon_api][download][tag] = "1.0"
-projects[os2web_taxon_api][download][branch] = "develop"
-projects[os2web_taxon_api][download][url] = "git@github.com:OS2web/os2web_taxon_api.git"
-
 ; OS2Web Meetings
 ; projects[os2web_meetings][download][tag] = "1.10"
 projects[os2web_meetings][download][branch] = "develop"
