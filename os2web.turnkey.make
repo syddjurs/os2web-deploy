@@ -289,6 +289,9 @@ projects[shurly][version] = "1.1"
 projects[piwik][subdir] = "contrib"
 projects[piwik][version] = "2.4"
 
+projects[piwik_stats][subdir] = "contrib"
+projects[piwik_stats][version] = "2.0-beta3"
+
 projects[cache_actions][subdir] = "contrib"
 projects[cache_actions][version] = "2.0-alpha5"
 
