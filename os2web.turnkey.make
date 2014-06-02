@@ -292,6 +292,9 @@ projects[piwik][version] = "2.4"
 projects[piwik_stats][subdir] = "contrib"
 projects[piwik_stats][version] = "2.0-beta3"
 
+projects[scheduler][subdir] = "contrib"
+projects[scheduler][version] = "1.2"
+
 projects[cache_actions][subdir] = "contrib"
 projects[cache_actions][version] = "2.0-alpha5"
 
