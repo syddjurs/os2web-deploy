@@ -118,6 +118,9 @@ projects[os2web_webform][download][url] = "git@github.com:OS2web/os2web_webform.
 projects[os2web_hearings][download][branch] = "develop"
 projects[os2web_hearings][download][url] = "git@github.com:syddjurs/os2web_hearings.git"
 
+; OS2Web Menus
+projects[os2web_menus][download][url] = "git@github.com:syddjurs/os2web_menus.git"
+
 ; OS2Web Portals
 # projects[os2web_portals][download][branch] = "develop"
 projects[os2web_portals][download][url] = "git@github.com:OS2web/os2web_portals.git"
