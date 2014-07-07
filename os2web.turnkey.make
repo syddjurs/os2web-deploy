@@ -157,7 +157,7 @@ projects[os2web_selfservicelinks][type] = "module"
 projects[os2web_selfservicelinks][download][type] = "git"
 ; projects[os2web_selfservicelinks][download][tag] = "1.10"
 projects[os2web_selfservicelinks][download][branch] = "master"
-projects[os2web_selfservicelinks][download][url] = "https://github.com/OS2web/os2web_selfservicelinks.git"
+projects[os2web_selfservicelinks][download][url] = "https://github.com/syddjurs/os2web_selfservicelinks.git"
 
 ; OS2Web Webform Download
 projects[os2web_webform][type] = "module"
