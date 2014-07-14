@@ -157,7 +157,7 @@ projects[os2web_selfservicelinks][type] = "module"
 projects[os2web_selfservicelinks][download][type] = "git"
 ; projects[os2web_selfservicelinks][download][tag] = "1.10"
 projects[os2web_selfservicelinks][download][branch] = "master"
-projects[os2web_selfservicelinks][download][url] = "https://github.com/OS2web/os2web_selfservicelinks.git"
+projects[os2web_selfservicelinks][download][url] = "https://github.com/syddjurs/os2web_selfservicelinks.git"
 
 ; OS2Web Webform Download
 projects[os2web_webform][type] = "module"
@@ -213,6 +213,12 @@ projects[os2web_subscription][type] = "module"
 projects[os2web_subscription][download][type] = "git"
 projects[os2web_subscription][download][branch] = "master"
 projects[os2web_subscription][download][url] = "https://github.com/syddjurs/os2web_subscription.git"
+
+; OS2web CPR filter module
+projects[os2web_cpr_filter][type] = "module"
+projects[os2web_cpr_filter][download][type] = "git"
+projects[os2web_cpr_filter][download][branch] = "master"
+projects[os2web_cpr_filter][download][url] = "https://github.com/syddjurs/os2web_cpr_filter.git"
 
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
