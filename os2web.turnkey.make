@@ -310,4 +310,4 @@ projects[syddjurs_clear_cache_rules][download][branch] = "master"
 projects[syddjurs_clear_cache_rules][download][url] = "https://github.com/syddjurs/syddjurs_clear_cache_rules.git"
 
 projects[taxon_taxonomy][subdir] = "contrib"
-projects[taxon_taxonomy][version] = "2.4"
+projects[taxon_taxonomy][version] = "2.6"
