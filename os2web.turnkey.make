@@ -218,7 +218,7 @@ projects[os2web_subscription][download][url] = "https://github.com/syddjurs/os2w
 projects[os2web_cpr_filter][type] = "module"
 projects[os2web_cpr_filter][download][type] = "git"
 projects[os2web_cpr_filter][download][branch] = "master"
-projects[os2web_cpr_filter][download][url] = "https://github.com/syddjurs/os2web_cpr_filter.git"
+projects[os2web_cpr_filter][download][url] = "https://github.com/OS2web/os2web_cpr_filter.git"
 
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
