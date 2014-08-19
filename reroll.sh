@@ -36,7 +36,7 @@ DRUPAL_ROOT=$(dirname `pwd`)/public_html
 
 mkdir -p build/$BUILD_DIR
 
-drush make --no-gitinfofile -y --no-core --contrib-destination=build/$BUILD_DIR $PROFILE_SRC.make
+drush make --no-gitinfofile -y --no-core  --working-copy --contrib-destination=build/$BUILD_DIR $PROFILE_SRC.make
 
 ### Code below can be in seperate file. source execute file from here. ###
 # . ./deploy.sh
@@ -64,7 +64,7 @@ if [ -d "build/$BUILD_DIR/modules" ]; then
 		echo "Backing up the database..."
 			# TODO: skip basic tables like cache --structure-tables-key=#{tables}
 			# Will make the dump smaller.
-		drush sql-dump --root=$DRUPAL_ROOT --uri=$URI --gzip > build/$BUILD_DIR_PREV/sql-dump.$DATE.sql.gz
+#		drush sql-dump --root=$DRUPAL_ROOT --uri=$URI --gzip > build/$BUILD_DIR_PREV/sql-dump.$DATE.sql.gz
 
 		echo "Updating database... Site will go in maintenance mode!"
 		drush --root=$DRUPAL_ROOT --uri=$URI vset maintenance_mode 1
