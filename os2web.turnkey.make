@@ -220,6 +220,12 @@ projects[os2web_menus][download][type] = "git"
 projects[os2web_menus][download][branch] = "master"
 projects[os2web_menus][download][url] = "https://github.com/syddjurs/os2web_menus.git"
 
+; OS2web Accessibility
+projects[os2web_accessibility][type] = "module"
+projects[os2web_accessibility][download][type] = "git"
+projects[os2web_accessibility][download][branch] = "master"
+projects[os2web_accessibility][download][url] = "https://github.com/bellcom/os2web_accessibility.git"
+
 ; OS2Web Themes
 projects[os2web_core_theme][type] = "theme"
 projects[os2web_core_theme][download][type] = "git"

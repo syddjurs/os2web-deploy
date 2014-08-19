@@ -121,6 +121,9 @@ projects[os2web_hearings][download][url] = "git@github.com:syddjurs/os2web_heari
 ; OS2Web Menus
 projects[os2web_menus][download][url] = "git@github.com:syddjurs/os2web_menus.git"
 
+; OSWeb Accessibility
+projects[os2web_accessibility][download][url] = "git@github.com:bellcom/os2web_accessibility.git"
+
 ; OS2Web Portals
 # projects[os2web_portals][download][branch] = "develop"
 projects[os2web_portals][download][url] = "git@github.com:OS2web/os2web_portals.git"
